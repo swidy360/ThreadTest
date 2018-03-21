@@ -4,6 +4,11 @@ import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * 传统定时器技术
+ * @author Administrator
+ *
+ */
 public class TraditionalTimerTest {
 	
 	private static int count = 0;
