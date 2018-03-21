@@ -1,5 +1,10 @@
 package com.swidy.thread;
 
+/**
+ * 传统线程
+ * @author Administrator
+ *
+ */
 public class TraditionalThread {
 
 	public static void main(String[] args) {

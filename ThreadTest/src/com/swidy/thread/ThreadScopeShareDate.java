@@ -4,6 +4,11 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
+/**
+ * ThreadLocal类以及应用
+ * @author Administrator
+ *
+ */
 public class ThreadScopeShareDate {
 
 //	private static int data = 0;

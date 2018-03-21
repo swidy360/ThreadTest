@@ -1,5 +1,10 @@
 package com.swidy.thread;
 
+/**
+ * 传统线程同步通信技术 wait/notify
+ * @author Administrator
+ *
+ */
 public class TraditionalThreadCommunication {
 	
 	public static void main(String[] args) {
